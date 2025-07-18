@@ -34,4 +34,3 @@ I would like to thank **CodSoft** for the opportunity and guidance during this i
 
 ---
 
-Feel free to check out each folder for source code and task-related files.
